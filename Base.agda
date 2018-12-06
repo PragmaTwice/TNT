@@ -1,4 +1,4 @@
-module TNT.base where
+module TNT.Base where
 
 open import Data.Nat
 open import Data.Nat.DivMod

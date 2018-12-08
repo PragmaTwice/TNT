@@ -9,3 +9,8 @@ The first choice is Coq, because I cannot remember shortcuts in emacs, which is 
 But with a little try, I found I do not know anything about Coq.
 
 So It is a Agda project. (Does agda have any module manager?)
+
+## Dependencies
+
+- Agda 2.6
+- Agda-stdlib 0.16
